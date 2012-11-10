@@ -1,0 +1,203 @@
+p *{
+
+	font-family: helvetica-arial;
+}
+body{margin: 0;
+padding: 0px;}
+#index{
+	padding: 0px;
+	margin: 0px;
+	background-color: black;
+}
+#container{
+	
+	width: auto;
+	height: 960px;
+	
+	background: url(http://bios.weddingbee.com/pics/63531/color_block_turquoise.jpg);
+	
+}
+
+
+#contenido{
+	width: 960px;
+	height: 100%;
+	margin: auto;
+	background-color: #DCF0F0;
+	border-right: 1px solid #CCC;
+	border-left: 1px solid #CCC;
+	margin-bottom: 10px;
+}
+
+#nav li{
+
+	display: inline;
+	list-style: none;
+	margin: 20px;
+	color: gray;
+	border: 1px solid #DCF0F0 ;
+	float: right;
+	font-family: arial-helvetica;
+	font-size: 20px;
+	padding: 5px;
+
+
+	
+}
+#nav a{
+	text-decoration:none;
+	color: gray;
+}
+
+#nav a:hover{
+	color: black;
+	text-shadow: -1px 1px black;
+}
+
+#nav li:active{
+	color: #DCF0Ff;
+}
+
+#nav ul{
+	margin: 0px;
+	position: relative;
+left: -52px;
+top: -64px;
+}
+	img{
+		position: relative;
+		top: -75px;
+	}
+
+#portada{
+	position: relative;
+	background: url(images/portada.jpg);
+	height: 300px;
+}
+#portada a{
+	position: absolute;
+	bottom: 10px;
+	right: 10px;
+	font-size: 26px;
+color: white;
+text-shadow: 1px 1px black;
+font-family: helvetica;
+border-left: 
+}
+
+h1{
+	background-image: url(images/logo.png) ;
+	margin: 0 0 15px 0;
+	padding-left: 50px;
+	position: relative;
+	background-repeat: no-repeat;
+	font-family: helvetica,arial;
+}
+#text-complet{
+	background-color: white;
+}
+#dato{
+	
+	width: 200px;
+	margin-left: 18px;
+	float: left;
+}
+
+#dato p{
+	padding: 5px;
+	text-align: justify;
+	font-family: helvetica,arial;
+}
+#dato img{
+	position: relative;
+top: -15px;
+}
+.relleno{
+	color: #DCF0F0;
+}
+
+#history{
+	float: right;
+	width: 675px;
+	margin-right: 34px;
+	
+}
+#history p{
+	padding: 8px;
+	text-align: justify;
+	font-family: helvetica,arial;
+}
+strong{
+	font-size: 24px;
+}
+.footerIndex{
+	clear: both;
+	background-color: black;
+	padding: 40px 40px 40px 80px;
+	border-top: 3px solid gray;
+
+}
+.footerIndex ul{
+	margin-top: 10px;
+	
+	left: 161px;
+	padding-left: 0px;
+	
+}
+.footerIndex li{
+	float: left;
+	color: gray;
+	padding: 0 6px 0 6px;
+	float: left;
+	margin-right: 25px;
+	text-align: center;
+	list-style: none;
+}
+.footerIndex img{
+	margin: 22px 0 0 40px;
+}
+.footerIndex a{
+
+	text-decoration: none;
+	color:gray;
+}
+.footerIndex a:hover{
+	color: white;
+
+}
+
+#quienes-general{
+	width: auto;
+height: 960px;
+}
+
+#quienes-contenido{
+	width: 960px;
+height: 100%;
+margin: auto;
+background: url(http://img.creativosonline.org/blog/wp-content/uploads/2008/12/made6.jpg)
+}
+
+#body-quienes{
+		background: url(http://xoboi.com/wp-content/uploads/2009/03/texturas2.jpg);
+}
+#quienes-contenido
+
+#reflexion{
+	background: white;
+	border: 2px solid black;
+	width: 550px;
+	position: relative;
+	top: 90px;
+	left: 22%;
+}
+
+#reflexion p{
+	text-align: justify;
+	font-family: helvetica,arial;
+	padding: 20px;
+}
+
+#footerquienes{
+	clear: both;
+}
